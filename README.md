@@ -1,4 +1,4 @@
-salutequalita
+# salutequalita
 
 La Sanita' e' un ambito ricco di dati ma questi dati sono complessi da gestire e per varie ragioni:
 
